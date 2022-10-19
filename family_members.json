@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Catherine",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "David",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Eon",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Faz",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Georgia",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Helena",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Irene",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Jackson",
+    "isParent": false,
+    "isDad": false,
+    "isBlocked": false
+  },
+  {
+    "name": "Brad",
+    "isParent": true,
+    "isDad": true,
+    "isBlocked": false
+  },
+  {
+    "name": "Ana",
+    "isParent": true,
+    "isDad": false,
+    "isBlocked": false
+  }
+]
+
