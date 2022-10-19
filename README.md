@@ -1,7 +1,5 @@
 ![A picture containing logo Description automatically
-generated](media/image1.png){width="2.7055555555555557in"
-height="0.8930555555555556in"}
-
+generated](media/image1.png)
 **Gina Cody School of Engineering and Computer Science**
 
 **Department of Electrical and Computer Engineering**
@@ -34,9 +32,7 @@ height="0.8930555555555556in"}
 
 4.  **OUTPUT OF THE CODE 9-16**
 
-```{=html}
-<!-- -->
-```
+
 1.  **Project Description**
 
 Building a console wallet for Brad's family where he and his wife Ana
@@ -96,32 +92,27 @@ David, Eon, Faz, Georgia, Helena, Irene, Jackson.
     1.  **Timeline:**
 
 ![A picture containing timeline Description automatically
-generated](media/image2.png){width="9.901785870516186in"
-height="3.115236220472441in"}
+generated](media/image2.png)
 
 **3.2 Flow Diagram:**
 
 ![Diagram Description automatically
-generated](media/image3.png){width="9.939458661417323in"
-height="5.598215223097113in"}
+generated](media/image3.png)
 
 **3.3 Use case diagram:**
 
 ![Diagram Description automatically
-generated](media/image4.png){width="7.848214129483814in"
-height="6.0730238407699035in"}
+generated](media/image4.png)
 
 **3.4 Sequence Diagram:**
 
 ![Diagram Description automatically
-generated](media/image5.png){width="10.525445100612423in"
-height="5.410714129483814in"}
+generated](media/image5.png)
 
 **3.5 UML Class Diagram:**
 
 ![Diagram Description automatically
-generated](media/image6.png){width="10.0in"
-height="6.688888888888889in"}
+generated](media/image6.png)
 
 4.  **OUTPUT OF THE CODE**
 
@@ -130,91 +121,81 @@ height="6.688888888888889in"}
 Login Page
 
 ![Shape Description automatically generated with medium
-confidence](media/image7.png){width="6.5in"
-height="0.9131944444444444in"}
+confidence](media/image7.png)
 
 When the user is Father the Home page is shown.
 
 He can choose one of the 8 options
 
-**[CASE 1:]{.underline}** if Brad wants to deposit the amount to himself
+**CASE 1:** if Brad wants to deposit the amount to himself
 
 ![Graphical user interface Description automatically generated with
-medium confidence](media/image8.png){width="6.5in"
-height="1.6708333333333334in"}
+medium confidence](media/image8.png)
 
 Brad wants to deposit the amount to one of the child-Catherine
 
 ![Graphical user interface, text, email Description automatically
-generated](media/image9.png){width="6.5in" height="2.463888888888889in"}
+generated](media/image9.png)
 
-**[CASE 2:]{.underline}** if Brad chooses the purchase option
+**CASE 2:** if Brad chooses the purchase option
 
 He must enter the Name of the item, the price and the name of the store.
 
 All the details are stored
 
 ![Graphical user interface Description automatically generated with
-medium confidence](media/image10.png){width="6.5in"
-height="1.792361111111111in"}
+medium confidence](media/image10.png)
 
 If the wallet balance is insufficient output will be "Not enough
 Balance"
 
 ![Graphical user interface Description automatically
-generated](media/image11.png){width="6.5in"
-height="1.8576388888888888in"}
+generated](media/image11.png)
 
-**[CASE 3]{.underline}:** View all transaction
+**CASE 3:** View all transaction
 
 ![Graphical user interface Description automatically
-generated](media/image12.png){width="7.76423009623797in"
-height="3.219335083114611in"}
+generated](media/image12.png)
 
-**[CASE 4:]{.underline}** Current wallet balance
+**CASE 4:** Current wallet balance
 
 ![Text Description automatically generated with medium
-confidence](media/image13.png){width="6.5in"
-height="1.3569444444444445in"}
+confidence](media/image13.png)
 
-**[CASE 5:]{.underline}** The notification option has all the
+**CASE 5:** The notification option has all the
 insufficient wallet balances, overpay requests and Block request
 
 ![Graphical user interface, text, application, email Description
-automatically generated](media/image14.png){width="10.0in"
-height="4.745138888888889in"}
+automatically generated](media/image14.png)
 
-**[CASE 6 and CASE 7:]{.underline}** To block and unblock a user which
+**CASE 6 and CASE 7:** To block and unblock a user which
 only the father can do
 
 He must enter the username
 
 ![Graphical user interface, text, application, email Description
-automatically generated](media/image15.png){width="6.5in"
-height="2.6694444444444443in"}
+automatically generated](media/image15.png)
 
-**[CASE 8:]{.underline}** Logout, back to the login page
+**CASE 8:** Logout, back to the login page
 
 ![Graphical user interface, text, application, email Description
-automatically generated](media/image16.png){width="6.5in"
-height="2.479861111111111in"}
+automatically generated](media/image16.png)
 
-**[KID]{.underline}**
+**[KID**
 
 Login Page
 
-![](media/image17.png){width="6.5in" height="0.6777777777777778in"}
+![](media/image17.png)
 
 If the user is a child, the below options are shown.
 
-**[CASE 1:]{.underline}** The Child must enter the Name of the item, the
+**CASE 1:** The Child must enter the Name of the item, the
 price and the name of the store.
 
 All the details are stored
 
 ![Text Description automatically generated with medium
-confidence](media/image18.png){width="6.5in"
-height="1.6520833333333333in"}
+confidence](media/image18.png)
 
 If the user is blocked by the father (Brad)
 
@@ -222,22 +203,16 @@ Then the user won't be able to purchase-Output "You have been blocked by
 Dad"
 
 ![Graphical user interface Description automatically generated with low
-confidence](media/image19.png){width="3.9966961942257218in"
-height="2.4689621609798773in"}
-
-**[CASE 2:]{.underline}** Current wallet balance
+confidence](media/image19.png)
+**CASE 2:** Current wallet balance
 
 ![Text Description automatically generated with medium
-confidence](media/image20.png){width="6.5in"
-height="1.2930555555555556in"}
+confidence](media/image20.png)
 
-**[CASE 3:]{.underline}** Requesting for an overpay![Graphical user
+**CASE 3:** Requesting for an overpay![Graphical user
 interface, text Description automatically
-generated](media/image21.png){width="10.0in"
-height="2.6395833333333334in"}
-
-**[CASE 4:]{.underline}** Logout, back to the login page
+generated](media/image21.png)
+**CASE 4:** Logout, back to the login page
 
 ![Graphical user interface, text Description automatically
-generated](media/image22.png){width="6.5in"
-height="2.2645833333333334in"}
+generated](media/image22.png)
